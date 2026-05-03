@@ -1,0 +1,10 @@
+# Minimal material file for Rhino OBJ export.
+# Processing looks for this because 1.obj contains: mtllib 1.mtl
+
+newmtl Default
+Ka 0.70 0.70 0.72
+Kd 0.82 0.84 0.86
+Ks 0.30 0.30 0.32
+Ns 40.0
+d 1.0
+illum 2

@@ -1,0 +1,5 @@
+﻿Large files intentionally not included in the GitHub-ready structure:
+- Videos (.mp4 and similar)
+- Original OBJ/Blend files over 100MB, because standard GitHub upload rejects files over 100MB
+
+Original large files remain in the source project folders on the local machine.

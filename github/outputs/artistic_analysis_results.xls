@@ -1,0 +1,6 @@
+﻿image_file,rope_area_ratio,skeleton_density,output_file
+image_1.jpg,0.0331,0.0249,artistic_rope_outputs\artistic_analysis_1.png
+image_2.jpg,0.0995,0.0035,artistic_rope_outputs\artistic_analysis_2.png
+image_3.jpg,0.1155,0.0312,artistic_rope_outputs\artistic_analysis_3.png
+image_4.jpg,0.1381,0.0157,artistic_rope_outputs\artistic_analysis_4.png
+image_5.jpg,0.0013,0.1163,artistic_rope_outputs\artistic_analysis_5.png

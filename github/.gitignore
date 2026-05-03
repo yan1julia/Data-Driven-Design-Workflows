@@ -1,0 +1,13 @@
+﻿# Local large files / videos
+outputs/local_large_files_not_for_upload/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.blend1
+
+# Common notebook/system clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
